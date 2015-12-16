@@ -1,0 +1,7 @@
+{
+    "php-sig.php-smarthints.filteredFunctionList": [
+        "dom",
+        "http",
+        "tidy"
+    ]
+}

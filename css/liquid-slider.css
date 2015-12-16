@@ -1,0 +1,252 @@
+/*
+ *  Liquid Slider v2
+ *  Copyright 2012 Kevin Batdorf
+ *  http://liquidslider.com
+ *  MIT license
+ */
+
+.no-js .liquid-slider {
+  height:350px;
+  overflow:scroll;
+}
+.ls-preloader {  
+  background: url(../img/loading.gif) #f2f2f2 no-repeat center 50%;
+  opacity:1;
+  width:100%;
+  height:100%;
+  position:absolute;
+  top:0;
+  left:0;
+  z-index:2;
+}
+
+/*** Containers ***/
+.ls-wrapper {
+  clear: both;
+  overflow: auto;
+  position: relative;
+}
+.liquid-slider {
+  background: #fff;
+  width: 700px;
+  margin: 0 auto;
+  float: left;
+  overflow: hidden;
+  position: relative;
+}
+.arrows .liquid-slider {
+  /* Margin between slider and arrows */
+  margin: 0 10px;
+}
+.ls-responsive .liquid-slider {
+  width: 100%;
+  margin: 0;
+}
+.panel-container {
+  position: relative;
+  -webkit-backface-visibility: hidden;
+  -webkit-perspective: 1000;
+  /* from http://davidwalsh.name/translate3d */
+}
+.liquid-slider .panel-container .fade {
+  width:100%;
+  opacity: 0;
+  position: absolute;
+  top: 0; 
+  left: 0;
+  display: block;
+}
+.liquid-slider img  {
+	max-width: 90vw;
+}
+
+/*** Panels ***/
+.liquid-slider .panel {  
+  width: 700px;
+  display: block;
+  float: left;
+}
+.panel-wrapper {  
+  padding: 15px 40px;
+  position:relative;
+}
+
+/*** Tabbed Navigation ***/
+.ls-nav {
+  overflow:hidden;
+  clear:both;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.ls-nav a {
+  background: #d8d8d8;
+  color: #333333;
+  margin-right: 4px;
+  padding: 10px 15px;  
+  outline:0;
+}
+.ls-nav a:hover {
+  background: #fff;
+  color: #333333;
+  text-shadow: none;
+  font-weight:bold;
+  letter-spacing:-1px;
+  border-bottom: 4px solid #B8BABE;
+}
+.ls-nav .current a {
+  background: #fff;
+  border-bottom:4px solid #3F4870;
+}
+.currentCrossLink {
+  font-weight: bold;
+}
+.ls-nav ul {  
+  padding:0;
+  clear: both;
+  display: block;
+  margin: auto;
+  overflow: hidden;
+}
+.ls-nav ul li {
+  display: inline;
+}
+.ls-nav ul li a {
+  display: block;
+  float: left;
+  text-decoration: none;
+  background: #fff;
+  border-bottom: 4px solid #B8BABE;
+}
+
+/*** Mobile Navigation ***/
+.ls-select-box { 
+  width: 100%;
+  height: 35px;
+  overflow: hidden;
+  background: url(../img/menu.png) no-repeat right #ddd;
+}
+.ls-select-box select {  
+  width: 150%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance:none;
+  background: transparent;
+  padding: 5px;
+  font-size: 110%;
+  border: none;
+  height: 35px;
+  cursor:pointer;
+  outline: 0;
+}
+
+/*** Arrow Navigation (non-graphical) ***/
+.ls-nav-left, .ls-nav-right {
+  float: left;
+  clear:both;
+}
+.ls-nav-left a, .ls-nav-right a {
+  background: #000;
+  color: #fff;
+  padding: 5px;
+  width: 100px;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+.ls-responsive .ls-nav-left {
+  position: absolute;
+  left: 0;
+  z-index: 2;
+}
+.ls-responsive .ls-nav-left a {
+  background: #9A9A9A;
+  width: 80px;
+}
+.ls-responsive .ls-nav-left a:hover {
+  background: #747474;
+}
+.ls-responsive .ls-nav-right {
+  position: absolute;
+  right: 0;
+  z-index: 2;
+}
+.ls-responsive .ls-nav-right a {
+  background: #9A9A9A;
+  width: 80px;
+}
+.ls-responsive .ls-nav-right a:hover {
+  background: #747474;
+}
+
+/*** Arrow Navigation (graphical) ***/
+.ls-nav-left-arrow, .ls-nav-right-arrow {
+  cursor: pointer;
+  float: left;
+  clear: both;
+}
+.ls-nav-left-arrow a, .ls-nav-right-arrow a {
+  display: block;
+}
+[class$="-arrow"] {
+  width: 25px;
+  height: 25px;
+  background-image: url(../img/arrow.png);
+  background-repeat: no-repeat;
+  margin-top: 50px;
+  position:relative;
+}
+.ls-nav-right-arrow {
+  background-position: top right;  
+  margin-right: 5px;
+}
+.ls-nav-left-arrow {
+  background-position: top left;  
+  margin-left: 5px;
+}
+.ls-nav-left-arrow:hover {
+  background-position: bottom left;
+}
+.ls-nav-right-arrow:hover {
+  background-position: bottom right;
+}
+.ls-responsive .ls-nav-left-arrow {
+  position: absolute;
+  left: 80;
+  z-index: 2;
+  top: -50px;
+}
+.ls-responsive .ls-nav-right-arrow {
+  position: absolute;
+  right: 0;
+  z-index: 2;
+  top: -50px;
+}
+
+@media screen and (min-width: 420px) and (max-width: 830px) {
+
+.liquid-slider img  {
+	max-width: 180%; margin-left: -9vw;
+}	
+}
+
+@media screen and (max-width: 420px) {
+.ls-nav a {
+  margin-right: 3px;
+  padding: 0px 0px;
+  font-size:12px;
+
+}	
+
+.liquid-slider p, .liquid-slider h2 {
+  font-family: inherit;
+  font-size:16px;
+}
+	
+.liquid-slider {
+  width: 180%;
+}
+
+.liquid-slider img  {
+	max-width: 180%; margin-left: -30%;
+}	
+}

@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- TemplateBeginEditable name="page description" -->
+<meta name="description" content="Course Page ">
+<!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,  user-scalable=no"/>
+<link rel="stylesheet" href="../css/normalize.css">
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.2.0/pure-min.css">
+<link rel="stylesheet" href="../css/animate.css">
+<!--  <link rel="stylesheet" href="css/prism.css">-->
+<link rel="stylesheet" href="../css/bjqs.css">
+<link rel="stylesheet" href="../css/liquid-slider.css">
+<link rel="stylesheet" href="../css/font.css">
+<link rel="stylesheet" href="../css/main.css">
+<script src="picturefill.js"></script>
+<script>
+    // Picture element HTML5 shiv
+    document.createElement( "picture" );
+  </script>
+<script src="picturefill.js" async></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- TemplateBeginEditable name="PreloaderInsertHere" -->
+    	PreloaderInsertHere
+    	
+<!-- TemplateEndEditable -->
+
+    	
+<div class="navigation"><!-- TemplateBeginEditable name="Logo" -->
+  <div class="navigation-logo"><img src="../img/logo.png" width="188" height="26" alt=""/></div>
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="course week# and part#" --><a href="#" class="navigation-title">Lorem Ipsum Title Here Week 5 Part 1</a><!-- TemplateEndEditable -->
+<div id="print">
+        <a href="#" onclick="printIt(document.getElementById('maincontentarea').innerHTML); return false"><img  alt="print" width="40" height="40" src="../img/print.png" target="_new"></a>    
+    </div>
+</div>
+        
+ <div id="skrollr-body">
+       	<main>
+	        <section id="slide-1" class="bcg3" style="height: 955px;">
+	        	<div class="bcg3 skrollable skrollable-between" data-center="background-position: 50% 0px;" data-top-bottom="background-position: 50% -100px;" data-anchor-target="#slide-1" style="background-position: 50% -17.2340425531915px;">
+	        	  <div class="hsContainer">
+<div class="hsContent skrollable skrollable-before" data-top="opacity: 1" data--400-top="opacity: 0" data-anchor-target="#slide-1 h2" style="opacity: 1;"><!-- TemplateBeginEditable name="Course Week" -->
+				    		<h2>
+	
+		        	</h2>
+                    
+  <div class="text head--text">
+      <div class="head-summary">Week 6</div>
+      
+<!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Course Name" -->
+	<div class="head-summary">Lorem Analysis: Ipsum Series and Dolor Voluptua</div>
+			    		<!-- TemplateEndEditable -->               
+        
+    </div>
+		        	</div>
+	        	</div>
+                <div id="scrollDown">                         
+      <div id="scrollText"><img src="../img/triangle1.png" width="18" height="10" alt="scroll"> Scroll down to begin <img src="../img/triangle1.png" width="18" height="10" alt="scroll"></div>
+</div> 
+        </section>        
+       
+       <div id="maincontent" class="homeSlideTall2x">
+       
+<div id="progress_wrapper" data-150-top="top:100px;" data-100-top="top:100px;" data-bottom="top:-20px;" data-anchor-target="#maincontentarea">
+
+ 
+<div id="progressbk" class="eight" data-150-top="opacity: 0;" data-100-top="opacity: .9;" data-anchor-target="#maincontentarea">
+  
+        <div id="progress" data-anchor-target="#a1" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:80px;"></div>
+        <div id="progress2" data-anchor-target="#a2" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:80px;"></div>
+        <div id="progress3" data-anchor-target="#a3" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:90px;"></div>
+        <div id="progress4" data-anchor-target="#a4" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:70px;"></div>
+        <div id="progress5" data-anchor-target="#a5" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:90px;"></div>
+        <div id="progress6" data-anchor-target="#a6" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:70px;"></div>
+        <div id="progress7" data-anchor-target="#a7" data-start="height:0px;" data-top-top="height:0px;" data-top-bottom="height:80px;"></div>
+                       
+</div> 
+</div>
+
+
+
+<div class="fixedmenu" data-150-top="opacity: 0;" data-100-top="opacity: 1;" data-center="opacity: 1;" data-anchor-target="#maincontentarea">
+<ol class="scroll-nav__list" data-150-top="top:100px;" data-100-top="top:100px;" data-bottom="top:-20px;" data-anchor-target="#maincontentarea">
+                <li class="scroll-nav__item1" data-anchor-target="#a1" data-start="font-weight:normal; background-position: -692px 20px;" data-5-top="font-weight:normal; background-position: -692px 20px;" data-4-top="font-weight:bold; background-position: -352px 20px;" data-1-top-bottom="font-weight:bold; background-position: -352px 20px;" data-top-bottom="font-weight:normal; background-position: -352px 20px;"><!-- TemplateBeginEditable name="navText1" --><a href="#a1"> I am link 1 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item2" data-anchor-target="#a2" data-start="font-weight:normal; background-position: -692px -93px;" data-5-top="font-weight:normal; background-position: -692px -93px;" data-4-top="font-weight:bold; background-position: -352px -93px;" data-1-top-bottom="font-weight:bold; background-position: -352px -93px;" data-top-bottom="font-weight:normal; background-position: -352px -93px;"><!-- TemplateBeginEditable name="navText2" --><a href="#a2"> I am link 2 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item3" data-anchor-target="#a3" data-start="font-weight:normal; background-position: -692px -220px;" data-5-top="font-weight:normal; background-position: -692px -220px;" data-4-top="font-weight:bold; background-position: -352px -220px;" data-1-top-bottom="font-weight:bold;  background-position: -352px -220px;" data-top-bottom="font-weight:normal;  background-position: -352px -220px;"><!-- TemplateBeginEditable name="navText3" --><a href="#a3"> I am link 3 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item4" data-anchor-target="#a4" data-start="font-weight:normal; background-position: -692px -330px;" data-5-top="font-weight:normal; background-position: -692px -330px;" data-4-top="font-weight:bold; background-position: -352px -330px;" data-1-top-bottom="font-weight:bold; background-position: -352px -330px;" data-top-bottom="font-weight:normal; background-position: -352px -330px;"><!-- TemplateBeginEditable name="navText4" --><a href="#a4"> I am link 4 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item5" data-anchor-target="#a5" data-start="font-weight:normal; background-position: -692px -455px;" data-5-top="font-weight:normal; background-position: -692px -455px;" data-4-top="font-weight:bold; background-position: -352px -455px;" data-1-top-bottom="font-weight:bold; background-position: -352px -455px;" data-top-bottom="font-weight:normal; background-position: -352px -455px;"><!-- TemplateBeginEditable name="navText5" --><a href="#a5"> I am link 5 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item6" data-anchor-target="#a6" data-start="font-weight:normal; background-position: -692px -580px;" data-5-top="font-weight:normal; background-position: -692px -580px;" data-4-top="font-weight:bold; background-position: -352px -580px;"  data-1-top-bottom="font-weight:bold; background-position: -352px -580px;" data-top-bottom="font-weight:normal; background-position: -352px -580px;"><!-- TemplateBeginEditable name="navText6" --><a href="#a6"> I am link 6 </a><!-- TemplateEndEditable --><a href="#a6"></a></li>
+                
+                <li class="scroll-nav__item7" data-anchor-target="#a7" data-start="font-weight:normal; background-position: -692px -697px;" data-5-top="font-weight:normal; background-position: -692px -697px;" data-4-top="font-weight:bold; background-position: -352px -697px;" data-1-top-bottom="font-weight:bold; background-position: -352px -697px;" data-top-bottom="font-weight:normal; background-position: -352px -697px;"><!-- TemplateBeginEditable name="navText7" --><a href="#a7"> I am link 7 </a><!-- TemplateEndEditable --></li>
+                
+                <li class="scroll-nav__item8" data-anchor-target="#a8" data-start="font-weight:normal; background-position: -692px -810px;" data-5-top="font-weight:normal; background-position: -692px -810px;" data-4-top="font-weight:bold; background-position: -352px -810px;" data-1-top-bottom="font-weight:bold; background-position: -352px -810px" data-top-bottom="font-weight:normal; background-position: -352px -810px"><!-- TemplateBeginEditable name="navText8" --><a href="#a8"> I am link 8 </a><!-- TemplateEndEditable --></li>
+                                                    
+  </ol>
+  
+</div>
+
+
+<div id="maincontentarea">
+    
+   
+	<div id="a1">
+  <!-- MAKE SURE THIS ANCHOR NAME CORRESPONDS TO THE ONE IN THE MENU ABOVE. -->
+  <!-- MENU Anchor. NAME IS a1-->
+  <a name="a1"></a><!-- TemplateBeginEditable name="SubHeader H2 Text" -->
+  <h2>Introduction</h2>
+  <!-- TemplateEndEditable -->
+ <!-- TemplateBeginEditable name="EditRegion39" -->
+    <div class="videoFrame">
+      <iframe style="width:30em; height:20em;" src="https://www.youtube.com/embed/MFTx20FiHlY" frameborder="0" allowfullscreen></iframe>
+    </div>
+  <!-- TemplateEndEditable --></div>
+
+<div id="a2">
+<hr>
+        
+  <!-- MENU Anchor. NAME IS a2-->
+  <h2><!-- TemplateBeginEditable name="H2 A2 Region" -->Lorem ipsum dolor sit amet<!-- TemplateEndEditable --></h2>
+        
+    <a name="a2"></a>
+    
+      <!-- TemplateBeginEditable name="a2 Text" -->
+      <p>I AM NUMBER 2 consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt</p>
+      <!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="Video Region 2" --><!-- TemplateBeginEditable name="video2 edit" -->
+      <div class="videoFrame">
+        <iframe style="width:30em; height:20em;" src="https://www.youtube.com/embed/MFTx20FiHlY" frameborder="0" allowfullscreen></iframe>
+          <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English"/>          
+          <!-- preceeding is accessibility compliance to sect 508 via subtitles -->
+      </div>
+      <!-- TemplateEndEditable --><!-- TemplateEndRepeat -->
+   
+      
+  <p>If you wish to download  the file used in this lecture video, click the icon below.</p>
+     <div class="boxHolder">
+  <!-- TemplateBeginEditable name="editIconDownload" -->
+  <div class="boxLeft"><a href="#" target="_blank"><img src="../img/Icon_PDF.png" alt="Click to download the pdf" >
+  </a></div>
+  <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="Download pdf Text" -->
+  <div class="boxRight"><a href="#" target="_blank">Week 5 Part 1 Lecture</a></div>
+  <!-- TemplateEndEditable -->
+  <div class="boxUnder"></div>
+</div>  	  
+</div>
+    <!-- MENU Anchor. NAME IS a3-->  
+       <div id="a3">
+<hr>
+	 <a name="a3"></a> 
+     <h2><!-- TemplateBeginEditable name="a3 header editable" -->I AM NUMBER 3<!-- TemplateEndEditable --></h2>
+	 
+	 <div class="delta"><!-- TemplateBeginEditable name="A3 Text Region" --> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<!-- TemplateEndEditable --></div>
+     </div>
+	 
+<hr>
+	 
+<!-- MENU Anchor. NAME IS a4-->  
+<div id="a4">
+	  <a name="a4"></a>
+	  <h2><!-- TemplateBeginEditable name="a4 header editable " -->I AM NUMBER 4<!-- TemplateEndEditable --></h2>	  
+	  <div class="delta"><!-- TemplateBeginEditable name="a4 region editible text" -->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. of N.<!-- TemplateEndEditable --></div>
+    </div>
+<hr>
+<div id="a5"><a name="a5"></a>
+<h2><!-- TemplateBeginEditable name="sub header5" -->I AM NUMBER 5 <!-- TemplateEndEditable --></h2>
+
+<div class="delta"><!-- TemplateBeginEditable name="main region5 editable text" -->Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. of N.<!-- TemplateEndEditable --></div>
+</div>
+
+<hr>
+
+<div id="a6">
+<a name="a6"></a>
+<h2><!-- TemplateBeginEditable name=" mainsub header6" -->I AM NUMBER 6 <!-- TemplateEndEditable --></h2>
+<div class="delta"> <!-- TemplateBeginEditable name="maincontent6 here" --> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est  <!-- TemplateEndEditable --></div>
+</div>
+<hr>
+<div id="a7">
+<a name="a7"></a>
+<h2><!-- TemplateBeginEditable name=" mainsub header7" -->I AM NUMBER 7 <!-- TemplateEndEditable --></h2>
+<div class="delta"> <!-- TemplateBeginEditable name="maincontent7 here" --> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet amet. of N. <!-- TemplateEndEditable --></div>
+</div>
+<hr>
+
+<div id="a8">
+ <a name="a8"></a>
+ <!-- TemplateBeginRepeat name="mainTextLinkingRepeatingRegion8" -->
+<h2><!-- TemplateBeginEditable name=" mainsub header8" -->I AM NUMBER 8 <!-- TemplateEndEditable --></h2>
+<div class="delta"> <!-- TemplateBeginEditable name="maincontent8 here" --> Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet amet. of N. <!-- TemplateEndEditable --></div>
+<!-- TemplateEndRepeat -->
+</div>
+<hr>
+</div>
+
+</div>
+<!-- TemplateBeginRepeat name="Footer" -->
+<footer><!-- TemplateBeginEditable name="edit footer text here" --> Hey Lorem! Hey ipsum! Hey dolor! Your Footer is here!<!-- TemplateEndEditable --></footer>
+ <!-- TemplateEndRepeat -->
+<script src="../js/jquery.min.js"></script>
+    <script src="../js/imagesloaded.js"></script>
+    <script src="../js/skrollr.js"></script>
+    <script src="../js/main.js"></script>
+    <script src="../js/jquery-lazyloadanything.js"></script>
+    <script src="../js/modernizr-2.7.1.min.js"></script>
+    <script src="../js/bjqs-1.3.min.js"></script>
+    <script src="../js/skrollr.menu.js"></script>
+    <script src="../js/Gruntfile.js"></script>
+    <script src="../js/jquery.easing.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>
+    <script src="../js/jquery.liquid-slider.js"></script>
+     <script src="../js/prism.js"></script>
+    <script src="../js/require.js"></script>
+        
+<script>
+/* If installing in the footer, you won't need $(function() {} */
+$(function(){
+     $('#slider-id').liquidSlider();
+});
+</script>
+
+ <!-- PRINT FUNCTION -->
+    <script type="text/javascript">
+        var win = null;
+
+        function printIt(printThis) {
+            win = window.open();
+            self.focus();
+            win.document.open();
+            win.document.write('<' + 'html' + '><' + 'head' + '><' + 'style' + '>');
+            win.document.write('body, td { font-family: Verdana; font-size: 10pt;}');
+            win.document.write('<' + '/' + 'style' + '><' + '/' + 'head' + '><' + 'body' + '>');
+            win.document.write(printThis);
+            win.document.write('<' + '/' + 'body' + '><' + '/' + 'html' + '>');
+            win.document.close();
+            win.print();
+            win.close();
+        }
+
+    </script>
+
+    <script>
+        $('iframe').lazyloadanything({
+            'onLoad': function(e, LLobj) {
+                var $iframe = LLobj.$element;
+                var src = $iframe.attr('data-src');
+                $iframe.attr('src', src);
+            }
+        });
+
+    </script>
+
+    <script type="text/javascript">
+        var s = skrollr.init( /*other stuff*/ );
+        skrollr.menu.init(s, {
+            animate: true,
+            easing: 'sqrt',
+            scale: 2,
+            duration: function(currentTop, targetTop) {
+                return 1200;
+            }
+        });
+
+    </script>
+
+    <script type="text/javascript" language="javascript">
+        rotate = 1;
+
+        function hide_preloader() { //DOM
+            rotate = 0;
+            $("#preloader").fadeOut(8000);
+        }
+
+        $(document).ready(function() {
+
+            var screen_ht = $(window).height();
+            var preloader_ht = 10;
+            var padding = (screen_ht / 2) - preloader_ht;
+
+            $("#preloader").css("padding-top", padding + "px");
+
+            function anim() {
+                $("#preloader_image").animate({
+                        left: '-1400px'
+                    }, 8000,
+                    function() {
+                        $("#preloader_image").animate({
+                            left: '0px'
+                        }, 5000);
+                        if (rotate == 1) {
+                            anim();
+                        }
+                    });
+            }
+
+            anim();
+
+        });
+
+    </script>
+
+    <script>
+        $('#slider-1').liquidSlider();
+        $('#slider-2').liquidSlider({
+            continuous: false
+        });
+        $('#slider-3').liquidSlider({ /*autoSlide:true*/ });
+        var api = $.data($('#slider-3')[0], 'liquidSlider');
+        $('.btn').on('click', function() {
+            var text = $(this).text() === 'Start' ? 'Stop' : 'Start';
+            if (text === 'Stop')
+                api.startAutoSlide();
+            else
+                api.stopAutoSlide();
+            $(this).text(text);
+        });
+        $('#range-speed').change(function() {
+            api.options.slideEaseDuration = -$(this).val()
+        });
+        $('#range-delay').change(function() {
+            api.options.autoSlideInterval = -$(this).val()
+        });
+
+        $('#slider-4').liquidSlider({
+            //hashLinking:true,
+            crossLinks: true,
+            firstPanelToLoad: 2
+        });
+        var api2 = $.data($('#slider-4')[0], 'liquidSlider');
+        $('.enable-hash').on('click', function(e) {
+            e.preventDefault();
+            api2.options.hashLinking = true;
+            api2.updateHashTags();
+            $(this).fadeOut();
+        });
+        $('.btn-hover').on('mouseover', function() {
+            api2.setNextPanel(3);
+        });
+
+        $('#slider-5').liquidSlider({
+            preloader: true,
+            preload: function() {
+                var self = this;
+                $('.btn-load').on('click', function() {
+                    self.finalize();
+                });
+            },
+            onload: function() {
+                $('.btn-load').after('<button class="pure-button pure-button-disabled">onload complete!</button>').fadeOut();
+            },
+            pretransition: function() {
+                $('.top-bar').text(this.getFromPanel(this.options.panelTitleSelector, this.nextPanel));
+                $('.top-bar').css('top', '0');
+                this.transition();
+            },
+            callback: function() {
+                $('.top-bar').css('top', '-100px');
+                $('#slider-5-nav-ul a').each(function() {
+                    // http://www.paulirish.com/2009/random-hex-color-code-snippets/
+                    $(this).css('background', '#' + Math.floor(Math.random() * 16777215).toString(16));
+                    $(this).css('color', '#' + Math.floor(Math.random() * 16777215).toString(16));
+                })
+            }
+        });
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+<div class="container-table">
+  <table class="responsive-table">
+    <caption></caption>
+    <thead>
+      <tr>
+        <th scope="col">Text1 Text1 Text1</th>
+        <th scope="col">Image1</th>
+      </tr>
+    </thead>
+    <tfoot>
+      <tr>
+        <td colspan="2">Text Text Text link <a href="http://en.wikipedia.org" </a> Text Text Text link <a href="http://www.wc3schools.com" </a></td>
+      </tr>
+    </tfoot>
+    <tbody>
+      <tr>
+        <th scope="row">Text1</th>
+        <td data-title="Text1">Text1</td>
+        <td data-title="Text1">Text1</td>
+        
+      </tr>
+      <tr>
+        <th scope="row">Image1</th>
+        <td data-title="Image1">Image1</td>
+        <td data-title="Image1">Image1</td>
+      </tr>
+      <tr>
+
+       <th scope="row">Text1</th>
+        <td data-title="Text1">Text1</td>
+        <td data-title="Text1">Text1</td>
+         
+      </tr>
+      <tr>
+       <th scope="row">Image1</th>
+        <td data-title="Image1">Image1</td>
+        <td data-title="Image1">Image1</td> 
+      </tr>
+      <tr>
+        <th scope="row">Text1</th>
+        <td data-title="Text1">Text1</td>
+        <td data-title="Text1">Text1</td>
+      </tr>
+      <tr>
+        <th scope="row">Image1</th>
+        <td data-title="Image1">Image1</td>
+        <td data-title="Image1">Image1</td> 
+      </tr>
+      
+    </tbody>
+  </table>
+</div>
